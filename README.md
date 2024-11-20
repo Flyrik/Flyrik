@@ -33,6 +33,8 @@
   <img   src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height = "40px" width = "40px"/>
   <img   src="https://logowik.com/content/uploads/images/wireshark5436.logowik.com.webp" height = "70px" width = "70px"/>
+  <img   src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height = "50px" width = "50px"/>
+  <img   src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" height = "50px" width = "50px"/>
  
 </p>
 
