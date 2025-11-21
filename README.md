@@ -24,7 +24,7 @@
   <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height = "40px" width = "40px"/>
   <img   src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" height = "40px" width = "40px"/>
   <img   src="https://vuejs.org/images/logo.png" height = "40px" width = "40px"/>
-  <img   src="https://images.seeklogo.com/logo-png/42/1/css-3-logo-png_seeklogo-426083.png" height = "40px" width = "40px"/>
+  <img   src="https://icon2.cleanpng.com/20180816/ql/7da0574f943d245723f512620b4e3c51.webp" height = "40px" width = "40px"/>
   <img   src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" height = "40px" width = "40px"/>
   <img   src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" height = "40px" width = "40px"/>
   <img   src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" height = "40px" width = "40px"/>
