@@ -33,9 +33,9 @@
   <img   src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height = "40px" width = "40px"/>
   <img   src="https://www.prevu3d.com/wp-content/uploads/2025/04/Omniverse.png" height = "70px" width = "70px"/>
-  <img   src="https://images.icon-icons.com/2415/PNG/512/swift_original_logo_icon_146332.png" height = "70px" width = "70px"/>
+  <img   src="https://images.icon-icons.com/2415/PNG/512/swift_original_logo_icon_146332.png" height = "40px" width = "40px"/>
   <img   src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height = "50px" width = "50px"/>
-  <img   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSokz9-Dyed8wPdO6s4cpUUu1w-J8iYRM_NLg&s" height = "50px" width = "50px"/>
+  <img   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSokz9-Dyed8wPdO6s4cpUUu1w-J8iYRM_NLg&s" height = "70px" width = "70px"/>
   
  
 </p>
