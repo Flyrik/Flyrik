@@ -1,4 +1,4 @@
-# Hi 👋 my name is Florian
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/43a693e7-9cda-4bba-be75-899880d24ce3" /># Hi 👋 my name is Florian
 ## Future developer in extended reality and AI
 
 💻 Passionate about development, I have explored programming languages such as C, Java, and Python, as well as Unity. Through various enriching internships, I discovered my strong passion for 3D technologies and artificial intelligence (AI) — two fields that allow me to combine creativity and technical innovation.
@@ -32,7 +32,7 @@
   <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height = "40px" width = "40px"/>
-  <img   src="https://apy-groupe.com/img/cms/634f74214ba9485a16b3dd07_nvidia_omniverse_logo.png" height = "70px" width = "70px"/>
+  <img   src="https://www.prevu3d.com/wp-content/uploads/2025/04/Omniverse.png" height = "70px" width = "70px"/>
   <img   src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height = "50px" width = "50px"/>
   
  
