@@ -1,4 +1,4 @@
-<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/43a693e7-9cda-4bba-be75-899880d24ce3" /># Hi 👋 my name is Florian
+# Hi 👋 my name is Florian
 ## Future developer in extended reality and AI
 
 💻 Passionate about development, I have explored programming languages such as C, Java, and Python, as well as Unity. Through various enriching internships, I discovered my strong passion for 3D technologies and artificial intelligence (AI) — two fields that allow me to combine creativity and technical innovation.
