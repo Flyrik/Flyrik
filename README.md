@@ -32,7 +32,7 @@
   <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height = "40px" width = "40px"/>
-  <img   src="https://logowik.com/content/uploads/images/wireshark5436.logowik.com.webp" height = "70px" width = "70px"/>
+  <img   src="https://apy-groupe.com/img/cms/634f74214ba9485a16b3dd07_nvidia_omniverse_logo.png" height = "70px" width = "70px"/>
   <img   src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height = "50px" width = "50px"/>
   
  
