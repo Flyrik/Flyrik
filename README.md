@@ -7,7 +7,6 @@
 
 🔐 With a unique blend of coding, AI, and 3D design skills, I focus on optimizing workflows, solving complex technical challenges, and creating immersive, intelligent virtual experiences.
 
-🌐 Always eager to learn, I am passionate about game development, virtual and augmented reality, artificial intelligence, and 3D modeling. My curiosity drives me to explore new technologies and contribute to innovative, immersive, and intelligent 3D projects. 🛡️💻
 
 * 🌍 I'm based in Paris.
 * ✉️ You can contact me at florian@poscente.fr.
