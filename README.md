@@ -20,7 +20,7 @@
   <img   src="https://talks.freelancerepublik.com/wp-content/uploads/2021/05/python_logo.png" height = "40px" width = "40px"/>
   <img   src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height = "40px" width = "40px"/>
   <img   src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height = "40px" width = "40px"/>
-  <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height = "40px" width = "40px"/>
+  <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png" height = "40px" width = "40px"/>
   <img   src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" height = "40px" width = "40px"/>
   <img   src="https://vuejs.org/images/logo.png" height = "40px" width = "40px"/>
   <img   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8HLXf0MICvg195NxJ8jbQ69mmhI9Y3GSFA&s" height = "40px" width = "40px"/>
