@@ -28,7 +28,7 @@
   <img   src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" height = "40px" width = "40px"/>
   <img   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height = "40px" width = "40px"/>
   <img   src="https://thumbs.dreamstime.com/b/linux-tux-comme-illustration-du-logo-informatique-en-tant-qu-fond-blanc-isol%C3%A9-est-un-personnage-de-pingouin-et-le-caract%C3%A8re-258590115.jpg" height = "40px" width = "40px"/>
-  <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" height = "40px" width = "40px"/>
+  <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/3840px-Blender_logo_no_text.svg.png" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" height = "40px" width = "40px"/>
   <img   src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height = "40px" width = "40px"/>
   <img   src="https://www.prevu3d.com/wp-content/uploads/2025/04/Omniverse.png" height = "60px" width = "60px"/>
