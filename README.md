@@ -3,7 +3,7 @@
 
 💻 Passionate about development, I have explored programming languages such as C, Java, and Python, as well as Unity. Through various enriching internships, I discovered my strong passion for 3D technologies and artificial intelligence (AI) — two fields that allow me to combine creativity and technical innovation.
 
-🚀 As I ventured into the fascinating world of 3D, I gained experience with tools like Blender, Unity, and Unreal Engine, and began developing AR (Augmented Reality) and VR (Virtual Reality) projects using Unity. In parallel, I have explored the potential of AI to enhance interactivity, realism, and automation in digital environments, including computer vision applications such as image analysis, tracking, and object detection.
+🚀 As I ventured into the fascinating world of 3D, I gained experience with tools like Blender, Unreal Engine, and began developing AR (Augmented Reality) and VR (Virtual Reality) projects using Unity. In parallel, I have explored the potential of AI to enhance interactivity, realism, and automation in digital environments, including computer vision applications such as image analysis, tracking, and object detection.
 
 🔐 With a unique blend of coding, AI, and 3D design skills, I focus on optimizing workflows, solving complex technical challenges, and creating immersive, intelligent virtual experiences.
 
