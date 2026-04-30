@@ -11,7 +11,7 @@
 * 🌍 I'm based in Paris.
 * ✉️ You can contact me at florian@poscente.fr.
 * 🧠 Currently, I am expanding my skills in 3D and IA development. I am exploring various aspects of the field, including virtual reality (VR) and augmented reality (AR). I actively participate in hands-on experiments using VR headsets and work on personal projects to deepen my understanding of 3D design and development.
-* 🚀 I have a particular interest in the automotive, healthcare, and defense sectors, where immersive technologies and artificial intelligence can drive meaningful innovation.
+* 🚀 I have a particular interest in the industrial sector, healthcare, and defense sectors, where immersive technologies and artificial intelligence can drive meaningful innovation.
 
 ### Skills
 <p>
