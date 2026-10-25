@@ -1,5 +1,5 @@
 # Hi 👋 my name is Florian
-## Future developer in extended reality and AI
+## AI Engineer · XR
 
 💻 Passionate about development, I have explored programming languages such as C, Java, and Python, as well as Unity. Through various enriching internships, I discovered my strong passion for 3D technologies and artificial intelligence (AI) — two fields that allow me to combine creativity and technical innovation.
 
